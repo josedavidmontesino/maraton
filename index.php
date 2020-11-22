@@ -12,7 +12,7 @@
 
     <div id="encabezado">
       <div id="dfoto">
-         <img id="foto" src="img.jpg" width="200" height="250" >
+         <img id="foto" src="img.jpg" width="200" height="220" >
       </div>
       <div id="txtencabezado">
         <h2>Maratón de programación 2020</h2>
