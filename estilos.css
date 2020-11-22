@@ -1,0 +1,65 @@
+#principal {
+    padding : 10px ;
+    position : relative ;
+    width : 80% ;
+    margin:auto;
+    border-radius : 1px ;
+    border : 1px solid rgba (0 , 0 , 0 , 0.096);
+    }
+
+#encabezado {
+    background : #93eeae;
+    border-width : 5px ;
+    padding : 10px ;
+    position : relative ;
+    top : 1 ;
+    left : 0 ;
+    border-radius : 1px ;
+    border : 1px solid;
+    border-color: #0000007a;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    border-radius : 10px ;
+    }
+
+#foto{
+    border-radius : 5px;
+    width: 120 px;
+    height : 120 px;
+    margin : auto;
+     }
+
+#foto,#txtencabezado,#dfoto{
+    display:inline-block;
+}
+
+#txtencabezado{
+    margin-left: 10px;
+    color:rgb(5, 5, 61);
+}
+
+#seccion {
+    background : rgba ( 255 , 255 , 255 , 0.096);
+    border-radius : 10px ;
+    border : 1px solid rgba ( 0 , 0 , 0 , 0.096 );
+    padding : 10px ;
+    position : relative ;
+    border-style : ridge ;
+    margin: auto;
+    margin-top: 10px;
+    border : 1px solid;
+    border-color: #0000007a;  
+}
+
+#footer {
+margin-top: 10px;
+display : block ;
+background : #000000 ;
+color : #ffffff ;
+border-width : 5px ;
+padding : 10px ;
+position : relative ;
+bottom : 0 ;
+border-radius : 5px ;
+}
